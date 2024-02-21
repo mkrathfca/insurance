@@ -1,0 +1,21 @@
+age,location,property_value,claims_history,weather_condition,premium
+35,New York,500000,0,sunny,2000
+45,Los Angeles,600000,2,cloudy,2200
+28,Chicago,400000,1,rainy,1800
+52,Miami,700000,3,sunny,2500
+40,San Francisco,800000,0,cloudy,2300
+31,Boston,550000,1,rainy,2100
+48,Dallas,650000,2,sunny,2400
+36,Seattle,480000,1,cloudy,2000
+42,Atlanta,600000,3,rainy,2300
+55,Denver,720000,0,sunny,2600
+30,Philadelphia,530000,2,cloudy,1900
+39,Houston,580000,1,rainy,2200
+47,Phoenix,670000,3,sunny,2500
+33,Detroit,490000,0,cloudy,2000
+50,Minneapolis,710000,2,rainy,2400
+38,Portland,520000,1,sunny,2100
+43,Milwaukee,630000,3,cloudy,2400
+34,Charlotte,560000,0,rainy,2000
+49,Las Vegas,690000,2,sunny,2500
+37,Columbus,540000,1,cloudy,2100
